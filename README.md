@@ -1,5 +1,3 @@
-# Weather_forecastMobile
-
 # Weather Forecast App
 
 A simple and clean weather forecast mobile app built using **React Native (Expo)** and the **OpenWeatherMap API**. Users can search for any city to see real-time weather data including temperature, conditions, humidity, and more. Last searched city is stored and reloaded automatically.
